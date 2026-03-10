@@ -1,1 +1,1 @@
-# garden_studio
+# GardenStudio
